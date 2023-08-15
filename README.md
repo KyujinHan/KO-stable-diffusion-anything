@@ -5,9 +5,10 @@
   
 # Quick start
 ```
-(coming_soon...)
+Korean_stable_diffuion_disney.ipynb # disney style
+Korean_stable_diffuion_anything.ipynb # anime style
 ```
-
+  
 # Results
 ### Korean-stable-diffusion-anything (🧨512x512)
 <table class="center">
