@@ -1,10 +1,11 @@
 # KO-stable-diffusion-anything
 **Diffusion-based korean text-to-image generation model** 
-- 😍Anything: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/korean-stable-diffusion-anything)  
+- 😍Anything: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/KO-anything-v4.5)  
 - 🤩Disney: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/korean-stable-diffusion-disney)
   
 # Quick start
 ```
+# Maybe, you will change model_id. Check huggingface!
 Korean_stable_diffuion_disney.ipynb # disney style
 Korean_stable_diffuion_anything.ipynb # anime style
 ```
@@ -52,7 +53,7 @@ Korean_stable_diffuion_anything.ipynb # anime style
 | Model | huggingface |
 | ------------- | ------------- |
 | `KO-diffusion-disney` | [huggingface](https://huggingface.co/kyujinpy/KO-stable-diffusion-disney) | 
-| `KO-diffusion-anything-v4.5` | [huggingface](https://huggingface.co/kyujinpy/KO-stable-diffusion-anything) |  
+| `KO-anything-v4.5` | [huggingface](https://huggingface.co/kyujinpy/KO-anything-v4.5) |  
   
 # TODO
 - [x] Make Colab code
