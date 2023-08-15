@@ -1,4 +1,4 @@
-# Korean-stable-diffusion-anything
+# KO-stable-diffusion-anything
 **Diffusion-based korean text-to-image generation model** 
 - 😍Anything: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/korean-stable-diffusion-anything)  
 - 🤩Disney: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/korean-stable-diffusion-disney)
@@ -10,7 +10,7 @@ Korean_stable_diffuion_anything.ipynb # anime style
 ```
   
 # Results
-### Korean-stable-diffusion-anything (🧨512x512)
+### KO-stable-diffusion-anything (🧨512x512)
 <table class="center">
 <tr>
   <td style="text-align:center;" colspan="4"><b>Output images</b></td>
@@ -29,7 +29,7 @@ Korean_stable_diffuion_anything.ipynb # anime style
 </tr>
 </table>
   
-### Korean-stable-diffusion-disney (🧨512x512)
+### KO-stable-diffusion-disney (🧨512x512)
 <table class="center">
 <tr>
   <td style="text-align:center;" colspan="4"><b>Output images</b></td>
@@ -56,8 +56,8 @@ Korean_stable_diffuion_anything.ipynb # anime style
 # TODO
 - [ ] Make Colab code
 - [ ] Share hugging face
-- [ ] Share korean-stable-diffusion-anything
-- [ ] Share korean-stable-diffusion-disney
+- [ ] Share KO-stable-diffusion-anything
+- [ ] Share KO-stable-diffusion-disney
 
 # Acknowledgement
 [Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)   
