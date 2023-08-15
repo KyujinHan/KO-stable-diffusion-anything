@@ -1,6 +1,6 @@
 # Korean-stable-diffusion-anything
 **Diffusion-based korean text-to-image generation model** 
-- 😍Anything:   
+- 😍Anything: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/korean-stable-diffusion-anything)  
 - 🤩Disney: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/korean-stable-diffusion-disney)
   
 # Quick start
