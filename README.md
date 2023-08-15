@@ -41,8 +41,8 @@ Korean_stable_diffuion_anything.ipynb # anime style
   <td><img src="./disney/image4.png"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;">"황금빛 머리카락의 마법 공주, 디즈니 스타일"</td>
-  <td width=25% style="text-align:center;">"아기 사자, 모던한 디즈니 스타”</td>
+  <td width=25% style="text-align:center;">"황금빛 머리카락의 마법 공주, 모던한 디즈니 스타일"</td>
+  <td width=25% style="text-align:center;">"아기 사자, 모던한 디즈니 스타일”</td>
   <td width=25% style="text-align:center;">"멋진 뉴욕 풍경, 모던한 디즈니 스타일"</td>
   <td width=25% style="text-align:center;">"아름다운 엘프, 모던한 디즈니 스타일"</td>
 </tr>
