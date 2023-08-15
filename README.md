@@ -26,7 +26,7 @@
 </tr>
 </table>
   
-### Korean-stable-diffusion-disney (🧨768x768)
+### Korean-stable-diffusion-disney (🧨512x512)
 <table class="center">
 <tr>
   <td style="text-align:center;" colspan="4"><b>Output images</b></td>
