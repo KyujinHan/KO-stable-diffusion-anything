@@ -1,4 +1,4 @@
-# Korean-stable-diffusion-anything-v5
+# Korean-stable-diffusion-anything
 **Diffusion-based korean text-to-image generation model** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/korean-stable-diffusion-anything-v5/tree/main)
 
 # Quick start
@@ -7,7 +7,7 @@
 ```
 
 # Results
-### Korean-stable-diffusion-anything-v5 (🧨512x512)
+### Korean-stable-diffusion-anything (🧨512x512)
 <table class="center">
 <tr>
   <td style="text-align:center;" colspan="4"><b>Output images</b></td>
