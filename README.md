@@ -21,7 +21,7 @@
   <td><img src=""></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;">""</td>
+  <td width=25% style="text-align:center;">""</td>
   <td width=25% style="text-align:center;">"”</td>
   <td width=25% style="text-align:center;">""</td>
   <td width=25% style="text-align:center;">""</td>
@@ -34,13 +34,13 @@
   <td style="text-align:center;" colspan="4"><b>Output images</b></td>
 </tr>
 <tr>
-  <td><img src=""></td>
-  <td><img src=""></td>
-  <td><img src=""></td>              
-  <td><img src=""></td>
+  <td><img src="./disney/image1.png"></td>
+  <td><img src="./disney/image2.png"></td>
+  <td><img src="./disney/image3.png"></td>              
+  <td><img src="./disney/image4.png"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;">""</td>
+  <td width=25% style="text-align:center;">"황금빛 머리카락의 마법 공주, 디즈니 스타일"</td>
   <td width=25% style="text-align:center;">"”</td>
   <td width=25% style="text-align:center;">""</td>
   <td width=25% style="text-align:center;">""</td>
