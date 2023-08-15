@@ -61,5 +61,5 @@
 # Acknowledgement
 [Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)   
 [SD-v2](https://github.com/Stability-AI/stablediffusion)   
-[anything](https://huggingface.co/Linaqruf/anything-v3.0/tree/main)  
+[anything](https://huggingface.co/xyn-ai/anything-v4.0)  
 [MO-DI-diffusion](https://huggingface.co/nitrosocke/mo-di-diffusion)
