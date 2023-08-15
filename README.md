@@ -1,5 +1,5 @@
-# Korean-stable-diffusion-v2
-**Diffusion-based korean text-to-image generation model** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/korean-stable-diffusion-v2-base)
+# Korean-stable-diffusion-anything-v5
+**Diffusion-based korean text-to-image generation model** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/korean-stable-diffusion-anything-v5/tree/main)
 
 # Quick start
 ```
@@ -7,7 +7,7 @@
 ```
 
 # Results
-### Korean-stable-diffusion-v2-base (🧨512x512)
+### Korean-stable-diffusion-anything-v5 (🧨512x512)
 <table class="center">
 <tr>
   <td style="text-align:center;" colspan="4"><b>Output images</b></td>
@@ -26,7 +26,7 @@
 </tr>
 </table>
   
-### Korean-stable-diffusion-v2-1 (🧨768x768)
+### Korean-stable-diffusion-disney (🧨768x768)
 <table class="center">
 <tr>
   <td style="text-align:center;" colspan="4"><b>Output images</b></td>
@@ -53,9 +53,10 @@
 # TODO
 - [ ] Make Colab code
 - [ ] Share hugging face
-- [ ] Share korean-stable-diffusion-v2-base
-- [ ] Share korean-stable-diffusion-v2-1
+- [ ] Share korean-stable-diffusion-anything
+- [ ] Share korean-stable-diffusion-disney
 
 # Acknowledgement
-[Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)  
-[SD-v2](https://github.com/Stability-AI/stablediffusion)  
+[Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)   
+[SD-v2](https://github.com/Stability-AI/stablediffusion)   
+[anything](https://huggingface.co/stablediffusionapi/anything-v5)  
