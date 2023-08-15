@@ -49,15 +49,16 @@ Korean_stable_diffuion_anything.ipynb # anime style
 </table>
 
 # Pre-trained
-```
-(coming_soon...)
-```
-
+| Model | huggingface |
+| ------------- | ------------- |
+| `KO-diffusion-disney` | [huggingface](https://huggingface.co/kyujinpy/KO-stable-diffusion-disney) | 
+| `KO-diffusion-anything-v4.5` | [huggingface](https://huggingface.co/kyujinpy/KO-stable-diffusion-anything) |  
+  
 # TODO
-- [ ] Make Colab code
-- [ ] Share hugging face
-- [ ] Share KO-stable-diffusion-anything
-- [ ] Share KO-stable-diffusion-disney
+- [x] Make Colab code
+- [x] Share hugging face
+- [x] Share KO-stable-diffusion-anything
+- [x] Share KO-stable-diffusion-disney
 
 # Acknowledgement
 [Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)   
